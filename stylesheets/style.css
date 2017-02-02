@@ -1,0 +1,55 @@
+body {
+    background-image: url("../img/foggy.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+
+
+
+
+    .textbox {
+      background-color: lightgrey;
+      padding: 20px;
+      border: 1px solid black;
+      -webkit-box-shadow: 1px 1px 5px 5px #0A0A0A;
+      box-shadow: 1px 1px 5px 5px #0A0A0A;
+      max-width: 50%;
+      -webkit-border-radi us: 5px 5px 5px 5px;
+      border-radius: 5px 5px 5px 5px;
+      margin-top: 10em;
+      margin-bottom: 10em;
+      margin-left: 20em;
+      text-align: center;
+    }
+
+
+
+.responsive-img {
+  max-width: 500px;
+  max-height: auto;
+  -webkit-box-shadow: 1px 1px 5px 5px #0A0A0A;
+  box-shadow: 1px 1px 5px 5px #0A0A0A;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  margin: -10px 0 10px 0;
+}
+
+.glass {
+  max-width: 50em;
+  max-height: 25em;
+  -webkit-box-shadow: 1px 1px 10px 1px #000000;
+  box-shadow: 1px 1px 10px 1px #000000;
+
+}
+
+h1, h2 {
+  padding-bottom: 1em;
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+}
